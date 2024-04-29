@@ -1530,8 +1530,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/MLDR_Rates.txt",
-      "hash": "2806a58cf6ca4025848f6f7945971a2cd4f94374ded0d3855128043293a9b496",
-      "title": "Sugar k rates",
+      "hash": "943ff15f3dc5bcf6d7da64cbbc8e6821eb7a470f41b428f895e59dc07389e4aa",
+      "title": "MLDR Rates v1",
       "firmware_version": [
         "4.3",
         "4.4",
