@@ -1,4 +1,4 @@
-#$ TITLE: Sugar k rates
+#$ TITLE: MLDR Rates v1
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
@@ -13,7 +13,7 @@
 #$ DESCRIPTION: High = 667 on RPY
 #$ DESCRIPTION:
 #$ DESCRIPTION: This will apply all three profiles which you can then configure via switch or change via OSD
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/366
+#$ DISCUSSION:
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 # -- End Defaults --
